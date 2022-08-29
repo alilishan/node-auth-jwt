@@ -1,5 +1,9 @@
 # Node JWT Auth
 
+### Start App
+- Run auth `npm run auth`
+- Run resource `npm run resource`
+
 ### Generate Keys
 https://gist.github.com/ygotthilf/baa58da5c3dd1f69fae9
 
